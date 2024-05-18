@@ -1,0 +1,11 @@
+Carrito de compras
+
+Temas principales : Funciones, arreglos, eventos.
+
+Es un carrito de compras en el que se puede seleccionar cursos y
+al oprimir un boton esto va a agregarlos al carrito de compras que va a ser un arreglo, 
+que al iniciar la aplicacion esta vacio, tambien podemos eliminar cursos especificos del curso
+o podemos vaciar el carrito en su totalidad.
+
+Ademas utilizamos local-storage para que la informacion de los cursos
+cargados al carrito persista a pesar de recargar la pagina.
